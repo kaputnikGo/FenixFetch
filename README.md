@@ -15,8 +15,8 @@ current release 1.0 has icons but its source does not.
 
 New tab view:
 
-<img src="https://github.com/kaputnikGo/FenixFetch/blob/master/images/FenixFetch-tab.png" height="180px" />
+<img src="https://github.com/kaputnikGo/FenixFetch/blob/main/images/FenixFetch-tab.png" height="180px" />
 
 Add-on options view:
 
-<img src="https://github.com/kaputnikGo/FenixFetch/blob/master/images/FenixFetch-options.png" height="180px" />
+<img src="https://github.com/kaputnikGo/FenixFetch/blob/main/images/FenixFetch-options.png" height="180px" />
