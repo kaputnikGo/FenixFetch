@@ -14,7 +14,9 @@ Has an options page with the parsed atom feed and an add-on icon that will open 
 current release 1.0 has icons but its source does not.
 
 New tab view:
+
 <img src="https://github.com/kaputnikGo/FenixFetch/blob/master/images/FenixFetch-tab.png" height="180px" />
 
 Add-on options view:
+
 <img src="https://github.com/kaputnikGo/FenixFetch/blob/master/images/FenixFetch-options.png" height="180px" />
