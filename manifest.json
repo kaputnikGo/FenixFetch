@@ -1,0 +1,41 @@
+{
+	"manifest_version": 3,
+	"name": "FenixFetch",
+	"version": "1.0",
+
+	"description": "Fetch the Firefox Android apk, for those without GApps etc. Hardcoded get apk from firefox-android release page at github.",
+	
+	"host_permissions": [
+		"*://github.com/mozilla-mobile/firefox-android/*"
+	],
+	
+	"permissions": [
+	  "webRequest"
+	],
+  
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "fenixfetch@cityfreqs.com"
+		}
+	},
+	
+	"background": {
+		"scripts": ["background.js"]
+	},
+	
+	"action": {
+		"default_icon": {
+		  "16": "icons/page-16.png",
+		  "32": "icons/page-32.png"
+		}
+	},
+	
+	"options_ui": {
+		"page": "options.html"
+	},
+
+
+	"icons": {
+		"48": "icons/page-48.png"
+	}
+}
