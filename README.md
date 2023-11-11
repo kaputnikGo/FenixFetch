@@ -12,3 +12,9 @@ NOT for desktop Firefox version, though it will work.
 Has an options page with the parsed atom feed and an add-on icon that will open new tab with the parsed atom feed.
 
 current release 1.0 has icons but its source does not.
+
+New tab view:
+<img src="https://github.com/kaputnikGo/FenixFetch/blob/master/images/FenixFetch-tab.png" height="180px" />
+
+Add-on options view:
+<img src="https://github.com/kaputnikGo/FenixFetch/blob/master/images/FenixFetch-options.png" height="180px" />
