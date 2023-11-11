@@ -10,3 +10,5 @@ Intended for those running AOSP, F-Droid with no GApps and requiring sideloading
 NOT for desktop Firefox version, though it will work.
 
 Has an options page with the parsed atom feed and an add-on icon that will open new tab with the parsed atom feed.
+
+current release 1.0 has icons but its source does not due to github being unable to upload at present
